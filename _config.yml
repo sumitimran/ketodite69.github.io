@@ -1,32 +1,12 @@
-title: KetoDiet69
-email: youremail@example.com
-description: >- 
-  KetoDiet69 – honest keto diet guides, reviews, and tips.
-baseurl: "" # leave empty for GitHub Pages
-url: "https://yourusername.github.io"
+title: KetoDietFree
+description: Honest keto diet guides, reviews, and tips.
+url: "https://sumitimran.github.io"
+baseurl: "/ketodite69.github.io"
 
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
-# Navigation
-nav:
-  - title: Home
-    url: /
-  - title: Blog
-    url: /blog/
-  - title: About
-    url: /about/
-  - title: Contact
-    url: /contact/
-  - title: Privacy
-    url: /privacy-policy/
-
-# Social links
-social:
-  - title: GitHub
-    url: https://github.com/yourusername
-  - title: Instagram
-    url: https://www.instagram.com/yourinsta
