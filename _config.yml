@@ -1,11 +1,6 @@
 title: KetoDietFree
-description: Honest keto diet guides, reviews, and tips.
+description: Honest keto diet guides and reviews.
 url: "https://sumitimran.github.io"
 baseurl: "/ketodite69.github.io"
 
-remote_theme: mmistakes/minimal-mistakes@4.24.0
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-remote-theme
+paginate: 5
