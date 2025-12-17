@@ -1,3 +1,32 @@
-title: My Blog
-description: Honest guides, reviews and comparisons.
-theme: minima
+title: KetoDiet69
+email: youremail@example.com
+description: >- 
+  KetoDiet69 – honest keto diet guides, reviews, and tips.
+baseurl: "" # leave empty for GitHub Pages
+url: "https://yourusername.github.io"
+
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation
+nav:
+  - title: Home
+    url: /
+  - title: Blog
+    url: /blog/
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
+  - title: Privacy
+    url: /privacy-policy/
+
+# Social links
+social:
+  - title: GitHub
+    url: https://github.com/yourusername
+  - title: Instagram
+    url: https://www.instagram.com/yourinsta
